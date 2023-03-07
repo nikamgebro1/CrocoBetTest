@@ -1,0 +1,16 @@
+button{
+    width: 90%;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    color: black;
+    background-color: #4CAF50;
+}
+button:hover {
+    font-weight: bolder;
+}
+.header{
+    text-align: center;
+   margin-bottom: 2%;
+    border-bottom: 5px solid black;
+}

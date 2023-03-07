@@ -1,0 +1,23 @@
+ul {
+    font-size: 30px;
+}
+ul li {
+    margin-bottom: 2%;
+    background-color: #4CAF50;
+    width: 88%;
+    text-align: center;
+}
+#user-posts-button{
+    margin-left: 90%;
+    width: 7%;
+    background-color: #4CAF50;
+    font-size: 20px;
+}
+button:hover {
+    font-weight: bolder;
+}
+.header{
+    text-align: center;
+    margin-bottom: 2%;
+    border-bottom: 5px solid black;
+}
